@@ -1,4 +1,5 @@
 # Nuclei Installer for Kali Linux
+![image](https://github.com/user-attachments/assets/c91c24e5-8f50-4f9d-9289-5e5d09f680a1)
 
 ## Overview
 This Python script automates the installation and setup of **Nuclei**, a fast and customizable vulnerability scanner, on **Kali Linux**. The script ensures that your system is updated, installs **Golang**, installs **Nuclei**, and updates its templates.
