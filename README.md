@@ -16,7 +16,7 @@ Make sure you have **Kali Linux** installed and have `sudo` privileges before ru
 ## Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/nuclei-installer.git
+   https://github.com/vivekbhatt3011/NucleiInstallationScript.git
    cd nuclei-installer
    ```
 
